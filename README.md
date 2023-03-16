@@ -1,8 +1,8 @@
 ### Tudo bom? Tem 1 minutinho? Então conheça mais meu trabalho como desenvolvedor. Fique a vontade para acessar meus repositórios :)
 
-- Contato: paulocorreapc93@gmail.com / (92) 9-8584-3097
+<div align="center"><h3>• Contato: paulocorreapc93@gmail.com / (92) 9-8584-3097<h3/><div/>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/paulocorrea93">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulocorrea93&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <div/>
