@@ -2,7 +2,7 @@
 
 - Contato: paulocorreapc93@gmail.com / (92) 9-8584-3097
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/paulocorrea93">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulocorrea93&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" width="480" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulocorrea93&layout=compact&langs_count=7&theme=gotham"/>
